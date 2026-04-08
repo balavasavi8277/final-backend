@@ -1,5 +1,6 @@
 com\portfolio\config\CorsConfig$1.class
 com\portfolio\repo\UserRepo.class
+com\portfolio\repo\ProjectRepo.class
 com\portfolio\service\UserService.class
 com\portfolio\config\SecurityConfig.class
 com\portfolio\security\JwtUtil.class
@@ -10,3 +11,4 @@ com\portfolio\config\MapperConfig.class
 com\portfolio\App.class
 com\portfolio\dto\UserDTO.class
 com\portfolio\entity\User.class
+com\portfolio\entity\Project.class
